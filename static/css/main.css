@@ -133,6 +133,7 @@ blockquote span {
 .profile .info strong {
   font-weight: 400;
 }
+.profile .info h2 { text-align: center; font-weight: 700;}
 
 .pen_data {
   position: fixed;
@@ -157,3 +158,4 @@ blockquote span {
   color: rgba(255, 255, 255, 0.9);
   border-bottom: 1px dotted #cfd9db;
 }
+
